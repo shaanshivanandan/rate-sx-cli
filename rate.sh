@@ -2,6 +2,7 @@
 x=1
 while [ $x -le 5 ]
 do
+  clear
   curl rate.sx
   sleep 10
   curl rate.sx/lrc
