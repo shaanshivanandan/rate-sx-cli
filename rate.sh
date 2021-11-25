@@ -12,3 +12,4 @@ do
   curl rate.sx/eth
   sleep 10
 done
+
